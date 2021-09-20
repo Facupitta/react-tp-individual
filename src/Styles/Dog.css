@@ -4,6 +4,12 @@
     border-radius: 20px;
     width: 300px;
     margin: auto;
+    transition: ease-in-out 0.2s;
+}
+
+.Dog :hover {
+    transition: ease-in-out 0.2s;
+    transform: scaleX(1.1) scaleY(1.1);
 }
 
 .Dog p {

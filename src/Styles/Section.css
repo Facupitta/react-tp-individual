@@ -3,4 +3,6 @@
     width: 80%;
     background-color: rgb(255, 220, 170);
     padding: 50px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }

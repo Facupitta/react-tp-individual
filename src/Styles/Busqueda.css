@@ -6,6 +6,7 @@
 }
 
 .Busqueda button {
+    color: rgb(100, 40, 0);
     margin: auto;
     width: 20%;
 }

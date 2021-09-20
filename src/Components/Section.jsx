@@ -35,7 +35,7 @@ const [breeds, setBreeds] = useState(null);
     return <section className="Section">
         <Busqueda>
             <TextField id="breed-text" value={breedSearch} variant="filled" label="Breed" onChange={handleChange}></TextField>
-            <Button onClick={filterDogsBy} color="primary" variant="outlined">Search</Button>
+            <Button onClick={filterDogsBy} color="default" variant="outlined">Search</Button>
         </Busqueda>
         {loading && <Cargando></Cargando>}
         {breeds && !loading && <Resultados>

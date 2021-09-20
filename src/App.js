@@ -10,7 +10,7 @@ import './Styles/Section.css';
 
 function App() {
   return (
-    <div>
+    <div className="fondo">
       <Header></Header>
       <Section></Section>
     </div>
