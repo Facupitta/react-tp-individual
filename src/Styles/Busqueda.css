@@ -1,0 +1,11 @@
+.Busqueda {
+    width: 50%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 100%;
+}
+
+.Busqueda button {
+    margin: auto;
+    width: 20%;
+}

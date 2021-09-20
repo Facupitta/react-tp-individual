@@ -1,0 +1,6 @@
+.Resultados {
+    width: 100%;
+    display: grid;
+    place-content: center;
+    grid-template-columns: 25% 25% 25% 25%;
+}

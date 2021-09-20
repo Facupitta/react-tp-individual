@@ -1,0 +1,29 @@
+.Header {
+    width: 100%;
+    height: 220px;
+    background-color: rgb(236, 186, 100);
+    display: flex;
+}
+
+.Header div {
+    text-align: center;
+    width: 80%;
+}
+
+.title {
+    position: relative;
+    bottom: 20px;
+    margin: auto;
+    font-size: 40px;
+    color:rgb(100, 40, 0);
+}
+
+.Header h1 {
+    width: 100%;
+    height: 100%;
+}
+
+.Header div img {
+    height: 100%;
+    float: right;
+}

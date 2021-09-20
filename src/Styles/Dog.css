@@ -1,0 +1,21 @@
+.Dog {
+    text-align: center;
+    background-color: rgb(236, 186, 100);
+    border-radius: 20px;
+    width: 300px;
+    margin: auto;
+}
+
+.Dog p {
+    font-size: 2rem;
+}
+
+.Dog img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    position: relative;
+    top: 4px;
+}
